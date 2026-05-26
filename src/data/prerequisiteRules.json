@@ -1,0 +1,3 @@
+[
+  { "id": "copilot-productivity-foundation", "featureId": "copilot-core", "requiresServicePlans": ["copilot-m365", "office-desktop", "exchange-online", "sharepoint-online", "onedrive"], "type": "hard_requirement", "note": "Microsoft 365 Copilot requires an eligible base license and the Copilot add-on." }
+]

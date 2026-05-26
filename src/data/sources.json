@@ -1,0 +1,11 @@
+[
+  { "id": "m365maps", "title": "M365 Maps", "url": "https://m365maps.com/", "type": "Community reference", "lastChecked": "2026-05-26" },
+  { "id": "ms-m365-business", "title": "Microsoft 365 for business plans and pricing", "url": "https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products", "type": "Microsoft official", "lastChecked": "2026-05-26" },
+  { "id": "ms-m365-enterprise", "title": "Microsoft 365 Enterprise plans", "url": "https://www.microsoft.com/microsoft-365/enterprise/compare-microsoft-365-and-office-365", "type": "Microsoft official", "lastChecked": "2026-05-26" },
+  { "id": "ms-entra-pricing", "title": "Microsoft Entra pricing", "url": "https://www.microsoft.com/security/business/microsoft-entra-pricing", "type": "Microsoft official", "lastChecked": "2026-05-26" },
+  { "id": "ms-intune-plans", "title": "Microsoft Intune plans and pricing", "url": "https://www.microsoft.com/security/business/microsoft-intune-pricing", "type": "Microsoft official", "lastChecked": "2026-05-26" },
+  { "id": "ms-defender-plans", "title": "Microsoft Defender plans and pricing", "url": "https://www.microsoft.com/security/business/microsoft-defender-pricing", "type": "Microsoft official", "lastChecked": "2026-05-26" },
+  { "id": "ms-teams-premium", "title": "Microsoft Teams Premium", "url": "https://www.microsoft.com/microsoft-teams/premium", "type": "Microsoft official", "lastChecked": "2026-05-26" },
+  { "id": "ms-copilot-requirements", "title": "Microsoft 365 Copilot requirements", "url": "https://learn.microsoft.com/copilot/microsoft-365/microsoft-365-copilot-requirements", "type": "Microsoft Learn", "lastChecked": "2026-05-26" },
+  { "id": "ms-purview", "title": "Microsoft Purview licensing guidance", "url": "https://learn.microsoft.com/purview/purview-licensing-faq", "type": "Microsoft Learn", "lastChecked": "2026-05-26" }
+]

@@ -1,0 +1,16 @@
+[
+  { "id": "m365-business", "name": "Microsoft 365 Business", "description": "Business plans for SMB productivity, security, and device management.", "sortOrder": 10 },
+  { "id": "m365-enterprise", "name": "Microsoft 365 Enterprise", "description": "Enterprise suites combining Office 365, Windows, EMS, security, and compliance.", "sortOrder": 20 },
+  { "id": "office-365", "name": "Office 365", "description": "Cloud productivity plans focused on Exchange, SharePoint, Teams, and Office apps.", "sortOrder": 30 },
+  { "id": "entra", "name": "Microsoft Entra", "description": "Identity, access, governance, and risk-based access licensing.", "sortOrder": 40 },
+  { "id": "intune", "name": "Microsoft Intune", "description": "Endpoint management, app protection, and device compliance licensing.", "sortOrder": 50 },
+  { "id": "defender", "name": "Microsoft Defender", "description": "Security plans for endpoint, email, identity, cloud apps, and business protection.", "sortOrder": 60 },
+  { "id": "purview", "name": "Microsoft Purview", "description": "Compliance, information protection, records, eDiscovery, and risk management.", "sortOrder": 70 },
+  { "id": "teams", "name": "Microsoft Teams", "description": "Teams collaboration, meetings, phone, premium, and webinar capabilities.", "sortOrder": 80 },
+  { "id": "copilot", "name": "Microsoft 365 Copilot", "description": "AI assistant licensing and prerequisite mapping.", "sortOrder": 90 },
+  { "id": "windows-365", "name": "Windows 365", "description": "Cloud PC licensing for Business, Enterprise, and Frontline/Flex scenarios.", "sortOrder": 100 },
+  { "id": "viva", "name": "Microsoft Viva", "description": "Employee experience modules and suite licensing.", "sortOrder": 110 },
+  { "id": "project-visio", "name": "Project, Planner & Visio", "description": "Project, Planner, and Visio subscription plans.", "sortOrder": 120 },
+  { "id": "education-frontline", "name": "Education & Frontline", "description": "Education and frontline worker license families.", "sortOrder": 130 },
+  { "id": "power-platform", "name": "Power Platform references", "description": "Power Platform license references that commonly affect Microsoft 365 scenarios.", "sortOrder": 140 }
+]

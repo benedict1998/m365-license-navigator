@@ -1,0 +1,22 @@
+[
+  { "id": "exchange-online", "name": "Exchange Online", "family": "Office 365", "description": "Business email and calendaring services." },
+  { "id": "sharepoint-online", "name": "SharePoint Online", "family": "Office 365", "description": "Intranet, content services, and document collaboration." },
+  { "id": "onedrive", "name": "OneDrive for Business", "family": "Office 365", "description": "User file storage and sync." },
+  { "id": "teams-core", "name": "Microsoft Teams", "family": "Teams", "description": "Teams chat, channels, meetings, and collaboration." },
+  { "id": "office-web-mobile", "name": "Office web and mobile apps", "family": "Office Apps", "description": "Browser and mobile access to Microsoft 365 apps." },
+  { "id": "office-desktop", "name": "Microsoft 365 Apps desktop", "family": "Office Apps", "description": "Desktop Office apps for Windows and macOS." },
+  { "id": "entra-free", "name": "Microsoft Entra ID Free", "family": "Identity", "description": "Core cloud identity and basic access management." },
+  { "id": "entra-id-p1", "name": "Microsoft Entra ID P1", "family": "Identity", "description": "Conditional Access and advanced identity controls." },
+  { "id": "entra-id-p2", "name": "Microsoft Entra ID P2", "family": "Identity", "description": "Identity Protection, PIM, and advanced governance capabilities." },
+  { "id": "intune-plan-1", "name": "Microsoft Intune Plan 1", "family": "Endpoint Management", "description": "Core device management, app protection, and compliance." },
+  { "id": "defender-business", "name": "Microsoft Defender for Business", "family": "Security", "description": "Endpoint security for small and medium businesses." },
+  { "id": "mdo-p1", "name": "Microsoft Defender for Office 365 Plan 1", "family": "Security", "description": "Email and collaboration protection with Safe Links and Safe Attachments." },
+  { "id": "mdo-p2", "name": "Microsoft Defender for Office 365 Plan 2", "family": "Security", "description": "Advanced email security, investigation, and response." },
+  { "id": "mde-p1", "name": "Microsoft Defender for Endpoint Plan 1", "family": "Security", "description": "Endpoint protection and attack surface reduction." },
+  { "id": "mde-p2", "name": "Microsoft Defender for Endpoint Plan 2", "family": "Security", "description": "Endpoint detection and response and advanced threat hunting." },
+  { "id": "purview-standard", "name": "Microsoft Purview standard compliance", "family": "Compliance", "description": "Baseline compliance and information governance capabilities." },
+  { "id": "purview-advanced", "name": "Microsoft Purview advanced compliance", "family": "Compliance", "description": "Advanced eDiscovery, audit, risk, and governance capabilities." },
+  { "id": "teams-premium", "name": "Microsoft Teams Premium", "family": "Teams", "description": "Advanced meetings, intelligent recap, webinars, and customization." },
+  { "id": "teams-phone", "name": "Teams Phone", "family": "Teams", "description": "Cloud calling and PBX capabilities." },
+  { "id": "copilot-m365", "name": "Microsoft 365 Copilot", "family": "Copilot", "description": "Copilot for Microsoft 365 add-on license." }
+]
